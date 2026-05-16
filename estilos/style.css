@@ -1,0 +1,20 @@
+*{
+    font-familu: Arial, Helvetica, sans-serif;
+    front-size: 16px;
+
+}
+
+body { 
+    background-color: rgb(247, 86, 86) 
+
+}
+
+main {
+    background-color:azure ;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+
+
+}
